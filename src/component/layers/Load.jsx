@@ -2,7 +2,7 @@ import React from 'react'
 
 const Load = () => {
   return (
-    <div>Loadong</div>
+    <div>Loading</div>
   )
 }
 
